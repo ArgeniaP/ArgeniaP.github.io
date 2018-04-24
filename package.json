@@ -1,0 +1,29 @@
+{
+  "name": "argeniap.io",
+  "version": "0.0.1",
+  "description": "For ArgeniaP.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArgeniaP/ArgeniaP.github.io.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "bootstrap",
+    "jquery",
+    "popper.js",
+    "jekyll",
+    "node.js"
+  ],
+  "author": "ArgeniaP",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ArgeniaP/ArgeniaP.github.io/issues"
+  },
+  "homepage": "https://github.com/ArgeniaP/ArgeniaP.github.io#readme"
+}
